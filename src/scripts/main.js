@@ -1,0 +1,1 @@
+console.log("Aqui se encontrará todos os arquivos JS")
