@@ -1,0 +1,1 @@
+const somar = require('./main')

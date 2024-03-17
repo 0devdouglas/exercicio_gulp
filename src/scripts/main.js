@@ -1,1 +1,5 @@
-console.log("Aqui se encontrará todos os arquivos JS")
+function somar (numeroUm, numeroDois) {
+    return numeroUm + numeroDois;
+}
+
+module.exports = somar;
